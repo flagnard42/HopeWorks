@@ -1,0 +1,10 @@
+{
+  "ApplicationInsights": {
+    "InstrumentationKey": ""
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-HopeWorks-7dc9a802-1347-4503-bf5a-fb2eb49535c3;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
